@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.863,F:\Projects\Songwon\Goldenbell_corona\PowerOfSWT\PowerOfSWT.dproj=F:\Projects\Songwon\Goldenbell_corona\AutoUpdate\swgoldenbell.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.294,F:\Projects\Songwon\Goldenbell_corona\PowerOfSWT\u_powerofswtMain.dfm=F:\Projects\Songwon\Goldenbell_corona\AutoUpdate\u_updateMain.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.665,D:\Projects\Songwon\GolenBell\AutoUpdate\swgoldenbell.dproj=D:\Projects\Songwon\GolenBell\AutoUpdate\swgbmdn.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.449,F:\Projects\Songwon\Alexandria_prg\PowerOfT_prg\PowerOfSWT\u_powerofswtMain.pas=F:\Projects\Songwon\Alexandria_prg\PowerOfT_prg\PowerOfSWT\u_poweroftUpCheck.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.294,F:\Projects\Songwon\Goldenbell_corona\PowerOfSWT\u_powerofswtMain.pas=F:\Projects\Songwon\Goldenbell_corona\AutoUpdate\u_updateMain.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.385,C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Projects\Songwon\GolenBell\AutoUpdate\u_updateMain.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.385,C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Projects\Songwon\GolenBell\AutoUpdate\u_updateMain.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.231,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.606,C:\Users\user\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Projects\Songwon\GolenBell\AutoUpdate\swgbmdn.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.800,F:\Projects\Songwon\Alexandria_prg\PowerOfT_prg\PowerOfSWT\PowerOfSWT.dproj=F:\Projects\Songwon\Alexandria_prg\PowerOfT_prg\PowerOfSWT\PowerOfTeacher.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.449,F:\Projects\Songwon\Alexandria_prg\PowerOfT_prg\PowerOfSWT\u_powerofswtMain.dfm=F:\Projects\Songwon\Alexandria_prg\PowerOfT_prg\PowerOfSWT\u_poweroftUpCheck.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
